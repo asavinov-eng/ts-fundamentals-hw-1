@@ -1,4 +1,3 @@
-// tests/helpers.ts
 import { Book } from "../src/book";
 
 export const makeBook = (
